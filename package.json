@@ -1,0 +1,16 @@
+{
+  "name": "api-code-generator",
+  "version": "1.0.0",
+  "description": "A Code Generator built as receiver of nest-api-generator",
+  "main": "dist/index.js",
+  "author": "Jamyth",
+  "license": "MIT",
+  "devDependencies": {
+    "@iamyth/prettier-config": "0.0.1",
+    "eslint": "7.23.0",
+    "eslint-config-iamyth": "0.0.1",
+    "prettier": "2.2.1",
+    "ts-node": "9.1.1",
+    "typescript": "4.2.3"
+  }
+}

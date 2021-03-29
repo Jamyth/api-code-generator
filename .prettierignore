@@ -1,0 +1,17 @@
+# Build
+dist/**
+
+# Node Modules
+node_modules/**
+
+# Misc
+*.DS_Store
+*.npm-debug.log
+*.yarn-error.log
+
+# Eslint
+.eslintrc.js
+
+# IDE
+/.idea/**
+/.vscode/**
